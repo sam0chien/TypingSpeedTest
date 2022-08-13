@@ -1,1 +1,2 @@
-# JUST A TYPING SPEED TEST
+# Typing Speed Test
+GUI application practice.
